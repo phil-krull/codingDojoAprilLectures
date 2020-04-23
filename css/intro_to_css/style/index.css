@@ -1,0 +1,19 @@
+/* external styling */
+* {
+    border: 1px dotted red;
+}
+h2 {
+    color: purple;
+}
+li.cyan {
+    color: cyan;
+    display: inline-block;
+    width: 50px;
+    list-style-type: disc;
+}
+#midnight {
+    color: midnightblue;
+}
+li {
+    color: orange;
+}

@@ -1,0 +1,71 @@
+* {
+    border: 1px dotted red;
+}
+#wrapper {
+    /* background-image: url('Portfolio_images/portfolio_assignment.png');
+    background-repeat: no-repeat; */
+    width: 970px;
+    height: 1200px;
+    margin: 0 auto;
+}
+#header {
+    width: 970px;
+    height: 65px;
+    /* background-color: blue; */
+    /* opacity: .5; */
+}
+#main {
+    width: 970px;
+    height: 895px;
+    /* background-color: red; */
+    /* opacity: .5; */
+    
+}
+#main img {
+    width: 420px;
+    /* height:280px; */
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+#about {
+    width: 475px;
+    height:276px;
+    margin-top: 20px;
+    margin-left: 20px;
+    /* background-color: purple; */
+    /* opacity: .5; */
+    display: inline-block;
+    vertical-align: top;
+}
+#about h2 {
+}
+.header_style {
+    background-color: grey;
+    margin: 0;
+    padding: 15px;
+
+}
+.white {
+    color: white;
+}
+#footer {
+    width: 970px;
+    height: 70px;
+    /* background-color: green; */
+    /* opacity: .5; */
+
+}
+.subcontents {
+    width: 290px;
+    height: 550px;
+    margin: 20px 0 0 20px;
+    /* background-color: cyan; */
+    /* opacity: .5; */
+    display: inline-block;
+    vertical-align: top;
+}
+span {
+    color: thistle;
+}
